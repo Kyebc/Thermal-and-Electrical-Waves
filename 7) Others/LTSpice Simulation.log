@@ -1,0 +1,8 @@
+Circuit: * C:\Users\kyebchoo\OneDrive - Imperial College London\Desktop\Physics\Year 2\Lab\2) Thermal and Electrical Waves\7) Others\LTSpice Simulation.asc
+
+Limiting rise time of source v1 to 5e-006
+Limiting fall time of source v1 to 5e-006
+WARNING: Node P001 is floating.
+WARNING: Node P002 is floating.
+
+.OP point found by inspection.
